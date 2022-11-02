@@ -1,0 +1,24 @@
+{
+    "name": "subcom/twill-menu",
+    "description": "A twill package",
+    "homepage": "https://github.com/SubcomDev/twill-menu",
+    "license": "MIT",
+    "require": {
+        "area17/twill": "^2.8.8",
+        "mcamara/laravel-localization": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "TwillMenu\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TwillMenu\\TwillMenuServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
