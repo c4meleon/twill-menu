@@ -1,7 +1,7 @@
 {
-    "name": "subcom/twill-menu",
+    "name": "c4meleon/twill-menu",
     "description": "A twill package",
-    "homepage": "https://github.com/SubcomDev/twill-menu",
+    "homepage": "https://github.com/c4meleon/twill-menu",
     "license": "MIT",
     "require": {
         "area17/twill": "^2.8.8",
